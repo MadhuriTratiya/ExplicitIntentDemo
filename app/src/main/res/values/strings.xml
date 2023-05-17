@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ExplicitIntents</string>
+    <string name="write_image_index">Write Image Index</string>
+    <string name="send_image_index">Send Image Index</string>
+    <string name="dish1">Dish 1</string>
+    <string name="dish2">Dish 1</string>
+    <string name="dish3">Dish 1</string>
+    <string name="dish4">Dish 1</string>
+    <string name="back">BACK</string>
+</resources>
